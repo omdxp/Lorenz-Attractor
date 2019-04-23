@@ -6,6 +6,6 @@ This **Matlab** script & **Simulink** defines Lorenz Attractor as it well known 
 - To change parameters for Lorenz Attractor (**rho**, **r** and **b**) open **fct5.m** and modify them.
 - To use **Simulink** you have to define parameters **rho**, **r** and **b** from command window or from workspace.
 - Once simulation is done after running **Lorenz.slx** you'll get all state variables **x**, **y** and **z**; you can plot them together to see the phase portrait by the following command :
-``` Matlab
-plot(x, y, z);
+``` matlab
+plot3(x, y, z);
 ```
