@@ -1,5 +1,5 @@
 # Lorenz Attractor
-This **Matlab** script & **Simulink** defines Lorenz Attractor as it well known by cahotic system, it can be used for a lot of applications like cryptography and many more.
+This **Matlab** script & **Simulink** defines Lorenz Attractor as it well known by chaotic system, it can be used for a lot of applications like cryptography and many more.
 
 # Summary
 - You can run either from a **Matlab** script **Lorenz.m** or from **Simulink** **Lorenz.slx**.
